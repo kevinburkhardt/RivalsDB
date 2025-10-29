@@ -1,0 +1,389 @@
+[
+  {
+    "name": "Iron Man",
+    "role": "Duelist",
+    "health": 200,
+    "abilities": [
+      { "name": "Repulsor Blast", "cooldown": 6, "damage": 50 },
+      { "name": "Unibeam", "cooldown": 12, "damage": 100 }
+    ],
+    "strongAgainst": ["Hulk", "Loki"],
+    "weakAgainst": ["Thor", "Doctor Strange"],
+    "tips": [
+      "Use flight to control high ground.",
+      "Unibeam can punish grouped enemies."
+    ]
+  },
+  {
+    "name": "Hulk",
+    "role": "Vanguard",
+    "health": 500,
+    "abilities": [
+      { "name": "Smash", "cooldown": 5, "damage": 40 },
+      { "name": "Thunderclap", "cooldown": 10, "damage": 70 }
+    ],
+    "strongAgainst": ["Iron Man", "Black Widow"],
+    "weakAgainst": ["Doctor Strange", "Scarlet Witch"],
+    "tips": [
+      "Engage first to draw aggro.",
+      "Use Thunderclap to disrupt abilities."
+    ]
+  },
+  {
+    "name": "Doctor Strange",
+    "role": "Vanguard",
+    "health": 250,
+    "abilities": [
+      { "name": "Mystic Shield", "cooldown": 8, "damage": 0 },
+      { "name": "Crimson Bands", "cooldown": 12, "damage": 60 }
+    ],
+    "strongAgainst": ["Hulk", "Thor"],
+    "weakAgainst": ["Loki", "Iron Man"],
+    "tips": [
+      "Keep allies alive with shields.",
+      "Crimson Bands can root dangerous enemies."
+    ]
+  },
+  {
+    "name": "Adam Warlock",
+    "role": "Strategist",
+    "health": 0,
+    "abilities": [],
+    "strongAgainst": [],
+    "weakAgainst": [],
+    "tips": []
+  },
+  {
+    "name": "Black Panther",
+    "role": "Duelist",
+    "health": 0,
+    "abilities": [],
+    "strongAgainst": [],
+    "weakAgainst": [],
+    "tips": []
+  },
+  {
+    "name": "Black Widow",
+    "role": "Duelist",
+    "health": 0,
+    "abilities": [],
+    "strongAgainst": [],
+    "weakAgainst": [],
+    "tips": []
+  },
+  {
+    "name": "Blade",
+    "role": "Duelist",
+    "health": 0,
+    "abilities": [],
+    "strongAgainst": [],
+    "weakAgainst": [],
+    "tips": []
+  },
+  {
+    "name": "Captain America",
+    "role": "Vanguard",
+    "health": 0,
+    "abilities": [],
+    "strongAgainst": [],
+    "weakAgainst": [],
+    "tips": []
+  },
+  {
+    "name": "Cloak & Dagger",
+    "role": "Strategist",
+    "health": 0,
+    "abilities": [],
+    "strongAgainst": [],
+    "weakAgainst": [],
+    "tips": []
+  },
+  {
+    "name": "Emma Frost",
+    "role": "Vanguard",
+    "health": 0,
+    "abilities": [],
+    "strongAgainst": [],
+    "weakAgainst": [],
+    "tips": []
+  },
+  {
+    "name": "Groot",
+    "role": "Vanguard",
+    "health": 0,
+    "abilities": [],
+    "strongAgainst": [],
+    "weakAgainst": [],
+    "tips": []
+  },
+  {
+    "name": "Hawkeye",
+    "role": "Duelist",
+    "health": 0,
+    "abilities": [],
+    "strongAgainst": [],
+    "weakAgainst": [],
+    "tips": []
+  },
+  {
+    "name": "Hela",
+    "role": "Duelist",
+    "health": 0,
+    "abilities": [],
+    "strongAgainst": [],
+    "weakAgainst": [],
+    "tips": []
+  },
+  {
+    "name": "Human Torch",
+    "role": "Duelist",
+    "health": 0,
+    "abilities": [],
+    "strongAgainst": [],
+    "weakAgainst": [],
+    "tips": []
+  },
+  {
+    "name": "Invisible Woman",
+    "role": "Strategist",
+    "health": 0,
+    "abilities": [],
+    "strongAgainst": [],
+    "weakAgainst": [],
+    "tips": []
+  },
+  {
+    "name": "Iron Fist",
+    "role": "Duelist",
+    "health": 0,
+    "abilities": [],
+    "strongAgainst": [],
+    "weakAgainst": [],
+    "tips": []
+  },
+  {
+    "name": "Jeff the Land Shark",
+    "role": "Strategist",
+    "health": 0,
+    "abilities": [],
+    "strongAgainst": [],
+    "weakAgainst": [],
+    "tips": []
+  },
+  {
+    "name": "Loki",
+    "role": "Strategist",
+    "health": 0,
+    "abilities": [],
+    "strongAgainst": [],
+    "weakAgainst": [],
+    "tips": []
+  },
+  {
+    "name": "Luna Snow",
+    "role": "Strategist",
+    "health": 0,
+    "abilities": [],
+    "strongAgainst": [],
+    "weakAgainst": [],
+    "tips": []
+  },
+  {
+    "name": "Magik",
+    "role": "Duelist",
+    "health": 0,
+    "abilities": [],
+    "strongAgainst": [],
+    "weakAgainst": [],
+    "tips": []
+  },
+  {
+    "name": "Magneto",
+    "role": "Vanguard",
+    "health": 0,
+    "abilities": [],
+    "strongAgainst": [],
+    "weakAgainst": [],
+    "tips": []
+  },
+  {
+    "name": "Mantis",
+    "role": "Strategist",
+    "health": 0,
+    "abilities": [],
+    "strongAgainst": [],
+    "weakAgainst": [],
+    "tips": []
+  },
+  {
+    "name": "Mister Fantastic",
+    "role": "Duelist",
+    "health": 0,
+    "abilities": [],
+    "strongAgainst": [],
+    "weakAgainst": [],
+    "tips": []
+  },
+  {
+    "name": "Moon Knight",
+    "role": "Duelist",
+    "health": 0,
+    "abilities": [],
+    "strongAgainst": [],
+    "weakAgainst": [],
+    "tips": []
+  },
+  {
+    "name": "Namor",
+    "role": "Duelist",
+    "health": 0,
+    "abilities": [],
+    "strongAgainst": [],
+    "weakAgainst": [],
+    "tips": []
+  },
+  {
+    "name": "Peni Parker",
+    "role": "Vanguard",
+    "health": 0,
+    "abilities": [],
+    "strongAgainst": [],
+    "weakAgainst": [],
+    "tips": []
+  },
+  {
+    "name": "Phoenix",
+    "role": "Duelist",
+    "health": 0,
+    "abilities": [],
+    "strongAgainst": [],
+    "weakAgainst": [],
+    "tips": []
+  },
+  {
+    "name": "Psylocke",
+    "role": "Duelist",
+    "health": 0,
+    "abilities": [],
+    "strongAgainst": [],
+    "weakAgainst": [],
+    "tips": []
+  },
+  {
+    "name": "Rocket Raccoon",
+    "role": "Strategist",
+    "health": 0,
+    "abilities": [],
+    "strongAgainst": [],
+    "weakAgainst": [],
+    "tips": []
+  },
+  {
+    "name": "Scarlet Witch",
+    "role": "Duelist",
+    "health": 0,
+    "abilities": [],
+    "strongAgainst": [],
+    "weakAgainst": [],
+    "tips": []
+  },
+  {
+    "name": "Spider-Man",
+    "role": "Duelist",
+    "health": 0,
+    "abilities": [],
+    "strongAgainst": [],
+    "weakAgainst": [],
+    "tips": []
+  },
+  {
+    "name": "Squirrel Girl",
+    "role": "Duelist",
+    "health": 0,
+    "abilities": [],
+    "strongAgainst": [],
+    "weakAgainst": [],
+    "tips": []
+  },
+  {
+    "name": "Star-Lord",
+    "role": "Duelist",
+    "health": 0,
+    "abilities": [],
+    "strongAgainst": [],
+    "weakAgainst": [],
+    "tips": []
+  },
+  {
+    "name": "Storm",
+    "role": "Duelist",
+    "health": 0,
+    "abilities": [],
+    "strongAgainst": [],
+    "weakAgainst": [],
+    "tips": []
+  },
+  {
+    "name": "The Punisher",
+    "role": "Duelist",
+    "health": 0,
+    "abilities": [],
+    "strongAgainst": [],
+    "weakAgainst": [],
+    "tips": []
+  },
+  {
+    "name": "The Thing",
+    "role": "Vanguard",
+    "health": 0,
+    "abilities": [],
+    "strongAgainst": [],
+    "weakAgainst": [],
+    "tips": []
+  },
+  {
+    "name": "Thor",
+    "role": "Vanguard",
+    "health": 0,
+    "abilities": [],
+    "strongAgainst": [],
+    "weakAgainst": [],
+    "tips": []
+  },
+  {
+    "name": "Ultron",
+    "role": "Strategist",
+    "health": 0,
+    "abilities": [],
+    "strongAgainst": [],
+    "weakAgainst": [],
+    "tips": []
+  },
+  {
+    "name": "Venom",
+    "role": "Vanguard",
+    "health": 0,
+    "abilities": [],
+    "strongAgainst": [],
+    "weakAgainst": [],
+    "tips": []
+  },
+  {
+    "name": "Winter Soldier",
+    "role": "Duelist",
+    "health": 0,
+    "abilities": [],
+    "strongAgainst": [],
+    "weakAgainst": [],
+    "tips": []
+  },
+  {
+    "name": "Wolverine",
+    "role": "Duelist",
+    "health": 0,
+    "abilities": [],
+    "strongAgainst": [],
+    "weakAgainst": [],
+    "tips": []
+  }
+]
